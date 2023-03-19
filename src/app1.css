@@ -1,0 +1,48 @@
+#map{
+    background-color: rgb(233, 240, 233);
+    padding: 10px;
+    display: grid;
+    grid-template-columns: auto auto auto auto auto auto;
+    border: 1px solid rgb(21, 235, 21) ;
+}
+#flat{
+    background-color: rgb(233, 240, 233);
+    padding: 20px;
+    display: grid;
+    grid-template-columns: 40% 50% auto;
+    border: 1px solid rgb(21, 235, 21) ;
+  
+}
+#zero{
+    background-color: rgb(233, 240, 233);
+    padding: 10px;
+    display: grid;
+    grid-template-columns:  auto auto auto  auto auto auto auto;
+    border: 1px solid rgb(21, 235, 21) ;
+    text-align: center;
+}
+#map1{
+    background-color: rgb(233, 240, 233);
+    padding: 10px;
+    display: grid;
+    grid-template-columns:  auto auto auto;
+    border: 1px solid rgb(21, 235, 21) ;
+}
+footer{
+    display: grid;
+    grid-template-columns: 40% 37% auto;
+    background-color: rgb(233, 240, 233);
+    border: 1px solid rgb(21, 235, 21) ;
+}
+#flit{
+    display: grid;
+    grid-template-columns: 60% auto;
+    background-color: rgb(233, 240, 233);
+    border: 1px solid rgb(21, 235, 21) ;
+}
+button{
+    padding: 10px;
+    color: black;
+    background-color: burlywood;
+    border-radius: 10px;
+}
